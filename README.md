@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hello World  👋  السلام عليكم
- A web developer and a Software Engineering studenf at **KFUPM**, Saudi Arabia. Working with @Axenda.
+ A web developer and a Software Engineering studenf at **KFUPM**, Saudi Arabia. Working at @Axenda.
 
 </div>
 
