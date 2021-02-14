@@ -12,6 +12,7 @@
 - 🎨 Figma 
 - 🐳 Docker 
 - 🟢 Nodejs 
+- and of course git 😜
 
 ## Programming Languages: 
 - 🟡 Javascript 
