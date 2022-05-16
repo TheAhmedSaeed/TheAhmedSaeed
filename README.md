@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hello World  👋  السلام عليكم
- A web developer and a Software Engineering graduate from **KFUPM**, Saudi Arabia.
+ A web developer and a Software Engineer graduated from **KFUPM**, Saudi Arabia.
 
 </div>
 
